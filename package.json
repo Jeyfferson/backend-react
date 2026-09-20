@@ -2,16 +2,16 @@
   "name": "backend-tarefas",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-  "start": "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "cors": "^2.8.6",
-    "json-server": "^1.0.0-beta.15"
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
   }
 }
