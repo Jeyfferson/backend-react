@@ -1,0 +1,25 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "titulo": "Estudar JSON Server",
+      "concluida": false
+    },
+    {
+      "id": "3",
+      "titulo": "Estudar HTML e CSS",
+      "concluida": false
+    },
+    {
+      "id": "4",
+      "titulo": "Estudar JavaScript",
+      "concluida": false
+    },
+    {
+      "titulo": "Estudar React",
+      "concluida": false,
+      "id": "Tx0UgPUMXP8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
